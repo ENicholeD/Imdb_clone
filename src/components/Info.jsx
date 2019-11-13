@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 function Info(){
     return (
       <div>
@@ -10,3 +9,4 @@ function Info(){
   }
   
   export default Info;
+
